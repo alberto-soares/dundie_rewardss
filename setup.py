@@ -20,4 +20,3 @@ setup(
 # pyproject
 
 # external build tools (poetry, flit & outros)
-
